@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rekubi
 - 👀 I’m interested in geospatial datascience and computer vision
-- 🌱 I’m currently a decision scienctist @Vinted and MSc Student of Geodesy and Geoinformation Science
 - 📫 How to reach me francescocherubini95@gmail.com
 
 <!---
